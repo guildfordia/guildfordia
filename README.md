@@ -2,7 +2,7 @@
 
 ### I'm Antoine, Junior Software Developper
 
-I'm student at 42 Paris, check the different projetcs I did during my scholarship on <!-- GitLab -->
+I'm student at 42 Paris, check the different projects I did during my scholarship on <!-- GitLab -->
    <a href="https://gitlab.com/guildfordia" target="_blank" rel="noreferrer">
       my Gitlab account
    </a>
