@@ -5,7 +5,7 @@
 I'm student at 42 Paris, check the different projects I did during my scholarship on <!-- GitLab -->
    <a href="https://gitlab.com/guildfordia" target="_blank" rel="noreferrer">
       my Gitlab account
-   </a>
+   </a>.
    
 I'm running <a href="https://tikka.live" target="_blank" rel="noreferrer">
       Tikka Radio
